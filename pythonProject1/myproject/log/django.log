@@ -1,0 +1,1170 @@
+Watching for file changes with StatReloader
+C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2169
+C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2169
+Not Found: /about/
+"GET /about/ HTTP/1.1" 404 2205
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2220
+C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myproject\settings.py changed, reloading.
+INFO 2024-02-02 20:09:37,699 autoreload 4644 11636 Watching for file changes with StatReloader
+WARNING 2024-02-02 20:10:03,140 log 4644 5976 Not Found: /
+WARNING 2024-02-02 20:10:03,148 basehttp 4644 5976 "GET / HTTP/1.1" 404 2169
+WARNING 2024-02-02 20:10:13,121 log 4644 10020 Not Found: /
+WARNING 2024-02-02 20:10:13,123 basehttp 4644 10020 "GET / HTTP/1.1" 404 2169
+INFO 2024-02-02 20:10:21,910 views 4644 852 Index page accessed
+INFO 2024-02-02 20:10:21,914 basehttp 4644 852 "GET /prefix/ HTTP/1.1" 200 13
+ERROR 2024-02-02 20:10:29,136 views 4644 724 Error in about page: division by zero
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myapp\views.py", line 16, in about
+    result = 1 / 0
+             ~~^~~
+ZeroDivisionError: division by zero
+INFO 2024-02-02 20:10:29,230 basehttp 4644 724 "GET /prefix/about/ HTTP/1.1" 200 27
+INFO 2024-02-02 20:10:46,735 views 4644 8340 Index page accessed
+INFO 2024-02-02 20:10:46,747 basehttp 4644 8340 "GET /prefix/ HTTP/1.1" 200 13
+INFO 2024-02-02 20:49:12,085 autoreload 4624 10888 Watching for file changes with StatReloader
+INFO 2024-02-02 20:52:29,624 autoreload 1148 2360 Watching for file changes with StatReloader
+INFO 2024-02-02 20:57:05,876 autoreload 9536 12076 Watching for file changes with StatReloader
+INFO 2024-02-02 23:13:49,521 autoreload 8476 7668 Watching for file changes with StatReloader
+WARNING 2024-02-02 23:14:03,033 log 8476 4884 Not Found: /
+WARNING 2024-02-02 23:14:03,046 basehttp 8476 4884 "GET / HTTP/1.1" 404 2274
+WARNING 2024-02-02 23:14:34,023 log 8476 9324 Not Found: /les3/
+WARNING 2024-02-02 23:14:34,039 basehttp 8476 9324 "GET /les3/ HTTP/1.1" 404 2548
+INFO 2024-02-02 23:15:10,393 basehttp 8476 10420 "GET /les3/hello/ HTTP/1.1" 200 26
+INFO 2024-02-02 23:15:15,572 basehttp 8476 10068 "GET /les3/hello2/ HTTP/1.1" 200 23
+INFO 2024-02-02 23:18:54,785 autoreload 8476 7668 C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-02-02 23:19:11,736 autoreload 840 7572 Watching for file changes with StatReloader
+INFO 2024-02-02 23:22:19,668 autoreload 11496 6004 Watching for file changes with StatReloader
+INFO 2024-02-02 23:25:01,702 autoreload 11496 6004 C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-02-02 23:25:04,322 autoreload 10304 11100 Watching for file changes with StatReloader
+INFO 2024-02-02 23:25:10,891 autoreload 8280 3364 Watching for file changes with StatReloader
+INFO 2024-02-02 23:25:46,790 autoreload 8280 3364 C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-02-02 23:25:48,854 autoreload 10608 9440 Watching for file changes with StatReloader
+INFO 2024-02-02 23:26:04,152 autoreload 12048 11560 Watching for file changes with StatReloader
+INFO 2024-02-03 10:11:05,817 autoreload 9356 3180 Watching for file changes with StatReloader
+INFO 2024-02-03 10:21:31,390 autoreload 9356 3180 C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-02-03 10:21:36,438 autoreload 10136 9704 Watching for file changes with StatReloader
+INFO 2024-02-03 10:23:16,495 autoreload 10136 9704 C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-02-03 10:23:29,898 autoreload 7212 7796 Watching for file changes with StatReloader
+INFO 2024-02-03 10:24:10,207 autoreload 2476 9516 Watching for file changes with StatReloader
+INFO 2024-02-03 10:35:37,954 autoreload 2476 9516 C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-02-03 10:35:42,364 autoreload 6332 3992 Watching for file changes with StatReloader
+INFO 2024-02-03 10:39:53,602 autoreload 6332 3992 C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-02-03 10:39:57,718 autoreload 4060 3776 Watching for file changes with StatReloader
+INFO 2024-02-03 10:42:31,830 autoreload 4060 3776 C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-02-03 10:42:36,194 autoreload 8284 444 Watching for file changes with StatReloader
+INFO 2024-02-03 10:43:15,445 autoreload 8284 444 C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-02-03 10:43:28,090 autoreload 2500 7792 Watching for file changes with StatReloader
+INFO 2024-02-03 10:47:13,723 autoreload 9132 7724 Watching for file changes with StatReloader
+WARNING 2024-02-03 10:47:30,357 log 9132 4900 Not Found: /
+WARNING 2024-02-03 10:47:30,359 basehttp 9132 4900 "GET / HTTP/1.1" 404 2274
+WARNING 2024-02-03 10:47:30,819 log 9132 4900 Not Found: /favicon.ico
+WARNING 2024-02-03 10:47:30,822 basehttp 9132 4900 "GET /favicon.ico HTTP/1.1" 404 2325
+WARNING 2024-02-03 10:47:51,999 log 9132 1268 Not Found: /les3/
+WARNING 2024-02-03 10:47:52,030 basehttp 9132 1268 "GET /les3/ HTTP/1.1" 404 3184
+WARNING 2024-02-03 10:48:05,376 log 9132 10024 Not Found: /les3/post/
+WARNING 2024-02-03 10:48:05,469 basehttp 9132 10024 "GET /les3/post/ HTTP/1.1" 404 3199
+WARNING 2024-02-03 10:48:12,945 log 9132 10200 Not Found: /les3/posts/
+WARNING 2024-02-03 10:48:13,000 basehttp 9132 10200 "GET /les3/posts/ HTTP/1.1" 404 3202
+INFO 2024-02-03 10:48:20,379 basehttp 9132 9252 "GET /les3/posts/2022/ HTTP/1.1" 200 19
+INFO 2024-02-03 10:48:25,764 basehttp 9132 4612 "GET /les3/posts/2022/6/ HTTP/1.1" 200 21
+INFO 2024-02-03 10:48:38,087 basehttp 9132 1224 "GET /les3/posts/2022/6/python/ HTTP/1.1" 200 359
+WARNING 2024-02-03 18:42:24,751 log 9132 4640 Not Found: /
+WARNING 2024-02-03 18:42:24,815 basehttp 9132 4640 "GET / HTTP/1.1" 404 2274
+INFO 2024-02-03 18:47:34,536 autoreload 2764 5636 Watching for file changes with StatReloader
+INFO 2024-02-03 18:49:33,557 autoreload 2764 5636 C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-02-03 18:49:37,670 autoreload 6080 10012 Watching for file changes with StatReloader
+INFO 2024-02-03 18:49:55,422 autoreload 6080 10012 C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-02-03 18:50:00,247 autoreload 6536 1756 Watching for file changes with StatReloader
+INFO 2024-02-03 18:50:46,456 autoreload 8444 8836 Watching for file changes with StatReloader
+WARNING 2024-02-03 18:50:51,531 log 8444 5536 Not Found: /
+WARNING 2024-02-03 18:50:51,535 basehttp 8444 5536 "GET / HTTP/1.1" 404 2274
+ERROR 2024-02-03 18:50:59,465 log 8444 4748 Internal Server Error: /les3/
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myapp3\views.py", line 43, in my_view
+    return render(request, "myapp3/my_template.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp3/my_template.html
+ERROR 2024-02-03 18:50:59,493 basehttp 8444 4748 "GET /les3/ HTTP/1.1" 500 77503
+ERROR 2024-02-03 18:51:44,551 log 8444 5932 Internal Server Error: /les3/
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myapp3\views.py", line 43, in my_view
+    return render(request, "myapp3/my_template.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp3/my_template.html
+ERROR 2024-02-03 18:51:44,559 basehttp 8444 5932 "GET /les3/ HTTP/1.1" 500 77777
+ERROR 2024-02-03 18:51:44,828 log 8444 5932 Internal Server Error: /les3/
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myapp3\views.py", line 43, in my_view
+    return render(request, "myapp3/my_template.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp3/my_template.html
+ERROR 2024-02-03 18:51:44,882 basehttp 8444 5932 "GET /les3/ HTTP/1.1" 500 77503
+ERROR 2024-02-03 18:51:51,300 log 8444 4080 Internal Server Error: /les3/
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myapp3\views.py", line 43, in my_view
+    return render(request, "myapp3/my_template.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp3/my_template.html
+ERROR 2024-02-03 18:51:51,313 basehttp 8444 4080 "GET /les3/ HTTP/1.1" 500 77372
+INFO 2024-02-03 19:07:07,275 autoreload 8444 8836 C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-02-03 19:07:16,419 autoreload 10060 2616 Watching for file changes with StatReloader
+WARNING 2024-02-03 19:07:27,292 log 10060 4244 Not Found: /
+WARNING 2024-02-03 19:07:27,518 basehttp 10060 4244 "GET / HTTP/1.1" 404 2274
+ERROR 2024-02-03 19:07:38,172 log 10060 4748 Internal Server Error: /les3/
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myapp3\views.py", line 44, in my_view
+    return render(request, "myapp3/my_template.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp3/my_template.html
+ERROR 2024-02-03 19:07:38,335 basehttp 10060 4748 "GET /les3/ HTTP/1.1" 500 77503
+INFO 2024-02-03 19:09:04,494 autoreload 10060 2616 C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-02-03 19:09:17,327 autoreload 5280 1108 Watching for file changes with StatReloader
+INFO 2024-02-03 19:10:14,603 autoreload 4416 1580 Watching for file changes with StatReloader
+WARNING 2024-02-03 19:10:30,693 log 4416 6344 Not Found: /
+WARNING 2024-02-03 19:10:30,769 basehttp 4416 6344 "GET / HTTP/1.1" 404 2274
+INFO 2024-02-03 19:10:41,366 views 4416 7068 Index page accessed
+INFO 2024-02-03 19:10:41,427 basehttp 4416 7068 "GET /prefix/ HTTP/1.1" 200 13
+INFO 2024-02-03 19:12:19,347 autoreload 4416 1580 C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-02-03 19:12:22,960 autoreload 9072 3316 Watching for file changes with StatReloader
+INFO 2024-02-03 19:12:40,295 autoreload 9072 3316 C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-02-03 19:13:48,668 autoreload 4284 6660 Watching for file changes with StatReloader
+WARNING 2024-02-03 19:14:49,769 log 4284 9580 Not Found: /
+WARNING 2024-02-03 19:14:49,776 basehttp 4284 9580 "GET / HTTP/1.1" 404 2274
+INFO 2024-02-03 19:14:58,253 views 4284 8784 Index page accessed
+INFO 2024-02-03 19:14:58,256 basehttp 4284 8784 "GET /prefix/ HTTP/1.1" 200 13
+ERROR 2024-02-03 19:15:12,266 log 4284 3404 Internal Server Error: /les3/
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myapp3\views.py", line 44, in my_view
+    return render(request, "myapp3/my_template.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp3/my_template.html
+ERROR 2024-02-03 19:15:12,273 basehttp 4284 3404 "GET /les3/ HTTP/1.1" 500 78724
+ERROR 2024-02-03 19:15:18,676 log 4284 3404 Internal Server Error: /les3/if/
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp3/templ_if.html
+ERROR 2024-02-03 19:15:18,697 basehttp 4284 3404 "GET /les3/if/ HTTP/1.1" 500 77740
+INFO 2024-02-03 19:20:46,055 autoreload 4008 3320 Watching for file changes with StatReloader
+INFO 2024-02-03 19:24:15,092 autoreload 4008 3320 C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-02-03 19:24:24,091 autoreload 132 9708 Watching for file changes with StatReloader
+INFO 2024-02-03 19:24:49,577 autoreload 132 9708 C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myapp3\views.py changed, reloading.
+INFO 2024-02-03 19:25:01,327 autoreload 10124 8836 Watching for file changes with StatReloader
+INFO 2024-02-03 19:27:37,284 autoreload 10124 8836 C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-02-03 19:27:41,168 autoreload 932 5568 Watching for file changes with StatReloader
+INFO 2024-02-03 19:27:59,036 autoreload 932 5568 C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myapp3\urls.py changed, reloading.
+INFO 2024-02-03 19:28:26,833 autoreload 6480 9460 Watching for file changes with StatReloader
+WARNING 2024-02-03 19:28:53,571 log 6480 6152 Not Found: /
+WARNING 2024-02-03 19:28:53,670 basehttp 6480 6152 "GET / HTTP/1.1" 404 2274
+WARNING 2024-02-03 19:28:57,795 log 6480 6152 Not Found: /
+WARNING 2024-02-03 19:28:58,048 basehttp 6480 6152 "GET / HTTP/1.1" 404 2274
+INFO 2024-02-03 19:29:10,788 basehttp 6480 2632 "GET /les3/hello/ HTTP/1.1" 200 26
+WARNING 2024-02-03 19:29:12,483 log 6480 2632 Not Found: /
+WARNING 2024-02-03 19:29:12,486 basehttp 6480 2632 "GET / HTTP/1.1" 404 2274
+ERROR 2024-02-03 19:29:27,058 log 6480 5500 Internal Server Error: /les3/for/
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myapp3\views.py", line 71, in view_for
+    return render(request, 'myapp3/templ_for.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp3/templ_for.html
+ERROR 2024-02-03 19:29:27,072 basehttp 6480 5500 "GET /les3/for/ HTTP/1.1" 500 80226
+INFO 2024-02-03 21:06:43,675 autoreload 4880 7408 Watching for file changes with StatReloader
+INFO 2024-02-03 21:07:18,090 autoreload 4880 7408 C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myproject\urls.py changed, reloading.
+INFO 2024-02-03 21:07:24,230 autoreload 9176 2384 Watching for file changes with StatReloader
+INFO 2024-02-03 21:07:50,898 autoreload 9176 2384 C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myproject\urls.py changed, reloading.
+INFO 2024-02-03 21:07:53,892 autoreload 988 10228 Watching for file changes with StatReloader
+ERROR 2024-02-03 22:14:20,426 log 988 6440 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+                      ~~~~~~~~~~~~~~~~~~~~~~~^^^^
+KeyError: 'djdt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\debug_toolbar\middleware.py", line 74, in __call__
+    rendered = toolbar.render_toolbar()
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\debug_toolbar\toolbar.py", line 82, in render_toolbar
+    return render_to_string("debug_toolbar/base.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\test\utils.py", line 111, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\defaulttags.py", line 325, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\defaulttags.py", line 478, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'djdt' is not a registered namespace
+ERROR 2024-02-03 22:14:20,510 basehttp 988 6440 "GET / HTTP/1.1" 500 135801
+ERROR 2024-02-03 22:14:38,933 log 988 4316 Internal Server Error: /les3/index/
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+                      ~~~~~~~~~~~~~~~~~~~~~~~^^^^
+KeyError: 'djdt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\debug_toolbar\middleware.py", line 74, in __call__
+    rendered = toolbar.render_toolbar()
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\debug_toolbar\toolbar.py", line 82, in render_toolbar
+    return render_to_string("debug_toolbar/base.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\test\utils.py", line 111, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\defaulttags.py", line 325, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\defaulttags.py", line 478, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'djdt' is not a registered namespace
+ERROR 2024-02-03 22:14:38,947 basehttp 988 4316 "GET /les3/index/ HTTP/1.1" 500 135900
+INFO 2024-02-03 22:18:35,263 autoreload 988 10228 C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myproject\settings.py changed, reloading.
+INFO 2024-02-03 22:18:56,195 autoreload 4592 3760 Watching for file changes with StatReloader
+ERROR 2024-02-03 23:01:27,575 log 4592 796 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+                      ~~~~~~~~~~~~~~~~~~~~~~~^^^^
+KeyError: 'djdt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\debug_toolbar\middleware.py", line 74, in __call__
+    rendered = toolbar.render_toolbar()
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\debug_toolbar\toolbar.py", line 82, in render_toolbar
+    return render_to_string("debug_toolbar/base.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\test\utils.py", line 111, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\defaulttags.py", line 325, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\defaulttags.py", line 478, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'djdt' is not a registered namespace
+ERROR 2024-02-03 23:01:27,688 basehttp 4592 796 "GET / HTTP/1.1" 500 135891
+ERROR 2024-02-03 23:01:39,741 log 4592 7708 Internal Server Error: /les3/hello/
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+                      ~~~~~~~~~~~~~~~~~~~~~~~^^^^
+KeyError: 'djdt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\debug_toolbar\middleware.py", line 74, in __call__
+    rendered = toolbar.render_toolbar()
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\debug_toolbar\toolbar.py", line 82, in render_toolbar
+    return render_to_string("debug_toolbar/base.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\test\utils.py", line 111, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\defaulttags.py", line 325, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\defaulttags.py", line 478, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'djdt' is not a registered namespace
+ERROR 2024-02-03 23:01:39,753 basehttp 4592 7708 "GET /les3/hello/ HTTP/1.1" 500 135990
+INFO 2024-02-03 23:39:54,049 autoreload 9616 5524 Watching for file changes with StatReloader
+ERROR 2024-02-03 23:40:12,651 log 9616 8856 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+                      ~~~~~~~~~~~~~~~~~~~~~~~^^^^
+KeyError: 'djdt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\debug_toolbar\middleware.py", line 74, in __call__
+    rendered = toolbar.render_toolbar()
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\debug_toolbar\toolbar.py", line 82, in render_toolbar
+    return render_to_string("debug_toolbar/base.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\test\utils.py", line 111, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\defaulttags.py", line 325, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\defaulttags.py", line 478, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'djdt' is not a registered namespace
+ERROR 2024-02-03 23:40:12,673 basehttp 9616 8856 "GET / HTTP/1.1" 500 136028
+ERROR 2024-02-03 23:40:36,685 log 9616 4288 Internal Server Error: /les3/about/
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+                      ~~~~~~~~~~~~~~~~~~~~~~~^^^^
+KeyError: 'djdt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\debug_toolbar\middleware.py", line 74, in __call__
+    rendered = toolbar.render_toolbar()
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\debug_toolbar\toolbar.py", line 82, in render_toolbar
+    return render_to_string("debug_toolbar/base.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\test\utils.py", line 111, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\defaulttags.py", line 325, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\defaulttags.py", line 478, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'djdt' is not a registered namespace
+ERROR 2024-02-03 23:40:36,705 basehttp 9616 4288 "GET /les3/about/ HTTP/1.1" 500 135990
+ERROR 2024-02-03 23:40:40,937 log 9616 6828 Internal Server Error: /les3/about/
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+                      ~~~~~~~~~~~~~~~~~~~~~~~^^^^
+KeyError: 'djdt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\debug_toolbar\middleware.py", line 74, in __call__
+    rendered = toolbar.render_toolbar()
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\debug_toolbar\toolbar.py", line 82, in render_toolbar
+    return render_to_string("debug_toolbar/base.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\test\utils.py", line 111, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\defaulttags.py", line 325, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\defaulttags.py", line 478, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'djdt' is not a registered namespace
+ERROR 2024-02-03 23:40:40,955 basehttp 9616 6828 "GET /les3/about/ HTTP/1.1" 500 136127
+ERROR 2024-02-03 23:40:42,164 log 9616 4144 Internal Server Error: /les3/about/
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+                      ~~~~~~~~~~~~~~~~~~~~~~~^^^^
+KeyError: 'djdt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\debug_toolbar\middleware.py", line 74, in __call__
+    rendered = toolbar.render_toolbar()
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\debug_toolbar\toolbar.py", line 82, in render_toolbar
+    return render_to_string("debug_toolbar/base.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\test\utils.py", line 111, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\defaulttags.py", line 325, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\defaulttags.py", line 478, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'djdt' is not a registered namespace
+ERROR 2024-02-03 23:40:42,181 basehttp 9616 4144 "GET /les3/about/ HTTP/1.1" 500 136127
+ERROR 2024-02-03 23:41:16,425 log 9616 6664 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+                      ~~~~~~~~~~~~~~~~~~~~~~~^^^^
+KeyError: 'djdt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\debug_toolbar\middleware.py", line 74, in __call__
+    rendered = toolbar.render_toolbar()
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\debug_toolbar\toolbar.py", line 82, in render_toolbar
+    return render_to_string("debug_toolbar/base.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\test\utils.py", line 111, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\defaulttags.py", line 325, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\defaulttags.py", line 478, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'djdt' is not a registered namespace
+ERROR 2024-02-03 23:41:16,444 basehttp 9616 6664 "GET / HTTP/1.1" 500 135891
+ERROR 2024-02-03 23:41:24,096 views 9616 1144 Error in about page: division by zero
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myapp\views.py", line 16, in about
+    result = 1 / 0
+             ~~^~~
+ZeroDivisionError: division by zero
+ERROR 2024-02-03 23:41:24,350 log 9616 1144 Internal Server Error: /prefix/about/
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+                      ~~~~~~~~~~~~~~~~~~~~~~~^^^^
+KeyError: 'djdt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\debug_toolbar\middleware.py", line 74, in __call__
+    rendered = toolbar.render_toolbar()
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\debug_toolbar\toolbar.py", line 82, in render_toolbar
+    return render_to_string("debug_toolbar/base.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\test\utils.py", line 111, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\defaulttags.py", line 325, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\defaulttags.py", line 478, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'djdt' is not a registered namespace
+ERROR 2024-02-03 23:41:24,362 basehttp 9616 1144 "GET /prefix/about/ HTTP/1.1" 500 136083
+ERROR 2024-02-03 23:41:26,465 views 9616 1744 Error in about page: division by zero
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myapp\views.py", line 16, in about
+    result = 1 / 0
+             ~~^~~
+ZeroDivisionError: division by zero
+ERROR 2024-02-03 23:41:26,614 log 9616 1744 Internal Server Error: /prefix/about/
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+                      ~~~~~~~~~~~~~~~~~~~~~~~^^^^
+KeyError: 'djdt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\debug_toolbar\middleware.py", line 74, in __call__
+    rendered = toolbar.render_toolbar()
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\debug_toolbar\toolbar.py", line 82, in render_toolbar
+    return render_to_string("debug_toolbar/base.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\test\utils.py", line 111, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\defaulttags.py", line 325, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\defaulttags.py", line 478, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'djdt' is not a registered namespace
+ERROR 2024-02-03 23:41:26,649 basehttp 9616 1744 "GET /prefix/about/ HTTP/1.1" 500 136220
+INFO 2024-02-03 23:44:42,842 autoreload 9616 5524 C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myproject\urls.py changed, reloading.
+INFO 2024-02-03 23:44:47,245 autoreload 4036 2624 Watching for file changes with StatReloader
+INFO 2024-02-03 23:50:59,836 autoreload 4036 2624 C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myapp3\models.py changed, reloading.
+INFO 2024-02-03 23:51:14,645 autoreload 1864 10220 Watching for file changes with StatReloader
+INFO 2024-02-04 00:27:07,729 autoreload 4540 3992 Watching for file changes with StatReloader
+ERROR 2024-02-04 00:27:15,710 log 4540 8708 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myapp3\views.py", line 75, in index
+    return render(request,"myapp3/index.html")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp3/index.html
+ERROR 2024-02-04 00:27:18,070 log 4540 8708 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+                      ~~~~~~~~~~~~~~~~~~~~~~~^^^^
+KeyError: 'djdt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\debug_toolbar\middleware.py", line 74, in __call__
+    rendered = toolbar.render_toolbar()
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\debug_toolbar\toolbar.py", line 82, in render_toolbar
+    return render_to_string("debug_toolbar/base.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\test\utils.py", line 111, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\defaulttags.py", line 325, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\defaulttags.py", line 478, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'djdt' is not a registered namespace
+ERROR 2024-02-04 00:27:18,238 basehttp 4540 8708 "GET / HTTP/1.1" 500 135967
+ERROR 2024-02-04 00:30:37,424 log 4540 2540 Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+                      ~~~~~~~~~~~~~~~~~~~~~~~^^^^
+KeyError: 'djdt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\debug_toolbar\middleware.py", line 74, in __call__
+    rendered = toolbar.render_toolbar()
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\debug_toolbar\toolbar.py", line 82, in render_toolbar
+    return render_to_string("debug_toolbar/base.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\test\utils.py", line 111, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\defaulttags.py", line 325, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\defaulttags.py", line 478, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'djdt' is not a registered namespace
+ERROR 2024-02-04 00:30:37,495 basehttp 4540 2540 "GET /favicon.ico HTTP/1.1" 500 134874
+ERROR 2024-02-04 14:03:04,023 log 4540 8292 Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+                      ~~~~~~~~~~~~~~~~~~~~~~~^^^^
+KeyError: 'djdt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\debug_toolbar\middleware.py", line 74, in __call__
+    rendered = toolbar.render_toolbar()
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\debug_toolbar\toolbar.py", line 82, in render_toolbar
+    return render_to_string("debug_toolbar/base.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\test\utils.py", line 111, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\defaulttags.py", line 325, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\template\defaulttags.py", line 478, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kozhe\PycharmProjects\pythonProject1\venv\Lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'djdt' is not a registered namespace
+ERROR 2024-02-04 14:03:07,956 basehttp 4540 8292 "GET /favicon.ico HTTP/1.1" 500 134874
+INFO 2024-02-04 14:56:33,228 autoreload 3324 3724 Watching for file changes with StatReloader
+INFO 2024-02-04 15:00:41,136 autoreload 496 9764 Watching for file changes with StatReloader
+INFO 2024-02-04 15:03:06,224 autoreload 496 9764 C:\Users\kozhe\PycharmProjects\pythonProject1\myproject\myproject\settings.py changed, reloading.
+INFO 2024-02-04 15:03:12,246 autoreload 5972 9932 Watching for file changes with StatReloader
+INFO 2024-02-04 15:04:04,485 autoreload 8696 1824 Watching for file changes with StatReloader
